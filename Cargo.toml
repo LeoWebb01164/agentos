@@ -5,3 +5,4 @@ edition = "2021"
 description = "The agent OS that evolves itself. "
 # handle the edge case from the last release
 # clarify the control flow
+# guard against empty input
